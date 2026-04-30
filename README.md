@@ -14,6 +14,3 @@ University of Roehampton Software Engineer Student with an interest for web desi
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jackoturner&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=jackoturner&icon=0&color=3)](https://visitcount.itsvg.in)
