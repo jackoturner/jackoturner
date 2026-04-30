@@ -1,5 +1,5 @@
 # About Me:
-University of Roehampton Software Engineer Student with an interest for web design and cyber security
+University of Roehampton Software Engineer Student with an interest for web design and cyber security.
 
 
 ## Socials:
