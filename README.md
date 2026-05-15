@@ -10,6 +10,3 @@ University of Roehampton Software Engineer Student with an interest for web desi
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jackoturner&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jackoturner&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jackoturner&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
